@@ -1,0 +1,64 @@
+  [
+  {
+    "mark": "BMW",
+    "model": "X6",
+    "year": "2009",
+    "price": "5000$",
+    "body": "sedan",
+    "fuel": "diesel",
+    "id" : 1,
+    "clicked": false
+  },
+  {
+      "mark": "BMW",
+      "model": "X1",
+      "year": "2018",
+      "price": "30000$",
+      "body": "crossover",
+      "fuel": "petrol",
+      "id" : 2,
+      "clicked": false
+    },
+    {
+      "mark": "Audi",
+      "model": "A4",
+      "year": "2009",
+      "price": "8000$",
+      "body": "universal",
+      "fuel": "petrol",
+      "id" : 3,
+      "clicked": false
+    },
+    {
+      "mark": "Audi",
+      "model": "TT",
+      "year": "2007",
+      "price": "10000$",
+      "body": "coupe",
+      "fuel": "petrol",
+      "id" : 4,
+      "clicked": false
+    },
+    {
+      "mark": "Ford",
+      "model": "Fusion",
+      "year": "2016",
+      "price": "13000$",
+      "body": "sedan",
+      "fuel": "petrol",
+      "id" : 5,
+      "clicked": false
+
+    },
+    {
+      "mark": "Ford",
+      "model": "Fiesta",
+      "year": "2010",
+      "price": "5000$",
+      "body": "hachback",
+      "fuel": "petrol",
+      "id" : 6,
+      "clicked": false
+    }
+]
+

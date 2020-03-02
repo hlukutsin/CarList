@@ -1,0 +1,96 @@
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  min-width: 320px;
+}
+header {
+  text-align: center;
+  height: 50px;
+  width: 100%;
+  font-family: monospace;
+  padding-top: 7px;
+  background-color: rgba(223, 210, 25, 0.863);
+  color: #004d99;
+  border-radius: 5px;
+  border: 1px solid rgba(223, 25, 25, 0.123);
+}
+main {
+  display: flex;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+.leftBar {
+  width: 25%;
+  height: 100%;
+  background-color: rgba(67, 49, 233, 0.164);
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: 1px solid rgba(98, 49, 233, 0.685);
+}
+
+.car {
+  border: 1px solid rgba(98, 49, 233, 0.685);
+  margin-bottom: 5px;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding-top: 10px;
+  background: rgba(5, 1, 211, 0.164);
+  font-family: monospace;
+}
+.car:hover{
+  background-color: rgba(223, 210, 25, 0.39);
+  border: 1px solid rgba(75, 70, 10, 0.596);
+  color: #004d99;
+}
+.carY {
+  text-align: center;
+}
+.carM {
+  text-align: center;
+}
+.carP {
+  text-align: right;
+  padding-right: 40px;
+  color: rgba(5, 5, 5, 0.582);
+}
+.about {
+  width: 38%;
+  height: 200px;
+  margin-left: 100px;
+  background-color: rgba(114, 98, 8, 0.041);
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: 1px solid rgba(223, 209, 25, 0.65);
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 20px;
+  padding-left: 40px;
+}
+.about div {
+  width: 30%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #004d99;
+}
+.about .carPrice {
+  color: rgb(19, 110, 16);
+  padding-top: 5px;
+  text-align: right;
+}
+.about .carYear {
+  padding-top: 5px;
+  text-align: center;
+  padding-left: 40px;
+}
+.carName h3 {
+  padding-top: 20px;
+  color: black;
+}
+.carName h3 span {
+  color: #004d99;
+}
